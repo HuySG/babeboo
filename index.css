@@ -585,7 +585,130 @@ h1 {
   left: 80%;
   animation-delay: 3s, 1.5s;
 }
-
+.snowflake:nth-of-type(10) {
+  left: 90%;
+  animation-delay: 1s, 1.5s;
+}
+.snowflake:nth-of-type(11) {
+  left: 10%;
+  animation-delay: 2s, 1.5s;
+}
+.snowflake:nth-of-type(12) {
+  left: 10%;
+  animation-delay: 1.5s, 1.5s;
+}
+.snowflake:nth-of-type(13) {
+  left: 10%;
+  animation-delay: 3s, 1s;
+}
+.snowflake:nth-of-type(14) {
+  left: 10%;
+  animation-delay: 0.5s, 1.5s;
+}
+.snowflake:nth-of-type(15) {
+  left: 10%;
+  animation-delay: 0.5s, 1.5s;
+}
+.snowflake:nth-of-type(16) {
+  left: 70%;
+  animation-delay: 2s, 1.5s;
+}
+.snowflake:nth-of-type(17) {
+  left: 40%;
+  animation-delay: 1.5s, 1.5s;
+}
+.snowflake:nth-of-type(18) {
+  left: 30%;
+  animation-delay: 3s, 1s;
+}
+.snowflake:nth-of-type(19) {
+  left: 60%;
+  animation-delay: 0.5s, 1.5s;
+}
+.snowflake:nth-of-type(20) {
+  left: 70%;
+  animation-delay: 0.5s, 1.5s;
+}
+.snowflake:nth-of-type(21) {
+  left: 90%;
+  animation-delay: 2s, 1.5s;
+}
+.snowflake:nth-of-type(22) {
+  left: 90%;
+  animation-delay: 1.5s, 1.5s;
+}
+.snowflake:nth-of-type(23) {
+  left: 10%;
+  animation-delay: 3s, 1s;
+}
+.snowflake:nth-of-type(24) {
+  left: 80%;
+  animation-delay: 0.5s, 1.5s;
+}
+.snowflake:nth-of-type(25) {
+  left: 80%;
+  animation-delay: 0.5s, 1.5s;
+}
+.snowflake:nth-of-type(26) {
+  left:50%;
+  animation-delay: 2s, 1.5s;
+}
+.snowflake:nth-of-type(27) {
+  left: 40%;
+  animation-delay: 1.5s, 1.5s;
+}
+.snowflake:nth-of-type(28) {
+  left: 70%;
+  animation-delay: 3s, 1s;
+}
+.snowflake:nth-of-type(29) {
+  left: 60%;
+  animation-delay: 0.5s, 1.5s;
+}
+.snowflake:nth-of-type(30) {
+  left: 50%;
+  animation-delay: 0.5s, 1.5s;
+}
+.snowflake:nth-of-type(31) {
+  left: 90%;
+  animation-delay: 7s, 1.5s;
+}
+.snowflake:nth-of-type(32) {
+  left: 90%;
+  animation-delay: 7.5s, 1.5s;
+}
+.snowflake:nth-of-type(33) {
+  left: 10%;
+  animation-delay: 7s, 1s;
+}
+.snowflake:nth-of-type(34) {
+  left: 80%;
+  animation-delay: 7.5s, 1.5s;
+}
+.snowflake:nth-of-type(35) {
+  left: 80%;
+  animation-delay: 7.5s, 1.5s;
+}
+.snowflake:nth-of-type(36) {
+  left:50%;
+  animation-delay: 7s, 1.5s;
+}
+.snowflake:nth-of-type(37) {
+  left: 40%;
+  animation-delay: 7.5s, 1.5s;
+}
+.snowflake:nth-of-type(38) {
+  left: 70%;
+  animation-delay: 7s, 1s;
+}
+.snowflake:nth-of-type(39) {
+  left: 60%;
+  animation-delay: 7.5s, 1.5s;
+}
+.snowflake:nth-of-type(40) {
+  left: 50%;
+  animation-delay: 7.5s, 1.5s;
+}
 .flipdown {
   margin: 0 auto;
 }
